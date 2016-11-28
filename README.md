@@ -19,6 +19,6 @@ Html Fundamentals
 [x] Overview
 [x] Html Basics
 [x] Challenges
-[ ] Html5
-[ ] Certificate
+[x] Html5
+[x] Certificate
 ```
