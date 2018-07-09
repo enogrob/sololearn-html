@@ -18,7 +18,7 @@ HTML tutorial is comprised of carefully selected videos, quizzes, and checkpoint
 Html Fundamentals
 [x] Overview
 [x] Html Basics
-[ ] Challenges
+[x] Challenges
 [ ] Html5
 [ ] Certificate
 ```
